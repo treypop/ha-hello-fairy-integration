@@ -8,7 +8,7 @@
     }
   ],
   "version": "1.0.0",
-  "codeowners": ["@Alwinator"], ["@treypop"],
+  "codeowners": ["@Alwinator"],
   "config_flow": true,
   "integration_type": "service",
   "dependencies": ["bluetooth"],
